@@ -7,6 +7,12 @@ You can find the book at the following address:
 The final project is very good because it gives very good information about how to implement a simple web server that answers some web requests by using some thread pools
 I would like to improve this project to add some new capabilities to it.
 For that, I make a repo for it.
+I would like to add following options to this project:
+1. Unit test
+2. Good Documentation
+3. Good commenting
+4. Adding new checkings.
+
 
 
 
